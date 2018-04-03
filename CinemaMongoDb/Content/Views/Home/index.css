@@ -1,0 +1,34 @@
+﻿div.ui-jqgrid-view table.ui-jqgrid-btable
+{
+    border-style:none;
+    border-top-style:none;
+    border-collapse:separate;
+}
+div.ui-jqgrid-view table.ui-jqgrid-btable td
+{
+    border-left-style:none
+}
+div.ui-jqgrid-view table.ui-jqgrid-htable
+{
+    border-style:none;
+    border-top-style:none;
+    border-collapse:separate;
+}
+div.ui-jqgrid-view table.ui-jqgrid-btable th
+{
+    border-left-style:none
+}
+
+.marginTop {
+    margin-top: 20px
+}
+
+div.ui-jqdialog-content td.form-view-data {
+    white-space: normal !important;
+    height: auto;
+    vertical-align: middle;
+    padding-top: 3px; padding-bottom: 3px
+}
+.ui-jqdialog-content .CaptionTD {
+    vertical-align: top;
+}
